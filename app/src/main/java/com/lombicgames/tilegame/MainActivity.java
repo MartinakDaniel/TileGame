@@ -200,6 +200,7 @@ public class MainActivity extends Activity {
                         tempX = -1;
                         tempY = -1;
                         x = 0;
+
                     }
                 }
             }
